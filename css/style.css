@@ -10,4 +10,66 @@ html {
 body {
   max-width: 320px;
   margin: auto;
+  margin-right: 26px;
+  margin-left: 26px;
+  background-color: black;
+}
+img{
+  width: 100%;
+}
+
+header{
+  border: 2px solid #ffff;
+  margin: 18px 0 18px;
+  padding: 55px 30px 55px;
+  background-image: url(../img/background-img.jpg);
+}
+
+header p{
+  font-size: 16px;
+  color: #9c9c9c
+}
+header em{
+  color: #2dffc3;
+}
+h1{
+  font-size: 26px;
+  color: white;
+}
+p{
+  font-size: 16px;
+}
+
+div{
+  background-color: #2afca6;
+  padding: 30px 29px 50px;
+}
+p strong{
+  color: #0b5a40;
+}
+div p{
+  color: #064130;
+}
+
+article h1{
+  font-size: 16px;
+  color: black;
+}
+article{
+  background-color: white;
+  padding: 30px 28px;
+  margin: 20px 0;
+}
+p.legend{
+  color: #a9a9a9;
+  font-size: 12px;
+}
+span.date{
+  color: #090909;
+}
+Span.autor{color: #18fca8;
+} 
+article p{
+  font-size: 14px;
+  color: #252525;
 }
