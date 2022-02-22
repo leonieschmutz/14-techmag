@@ -112,7 +112,7 @@ p strong{
   margin-bottom: 20px;
 }
 
-div p{
+div p strong{
   color: #064130;
   font-family: 'Montserrat', sans-serif;
 }
